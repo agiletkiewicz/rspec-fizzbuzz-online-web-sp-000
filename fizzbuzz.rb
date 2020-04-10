@@ -3,5 +3,5 @@
 
 
 def fizzbuzz
-  
+  "Fizz"
 end
